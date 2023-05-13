@@ -3,3 +3,7 @@ My First application.
 Add new Feature.
 Comments
 Likes
+
+Addtional feature
+dual camera
+speaker
